@@ -16,7 +16,7 @@
 
 
         <!-- connector SDK version -->
-        <version.connector>8.7.8</version.connector>
+        <version.connector>8.10.2</version.connector>
         <version.chemistry>1.1.0</version.chemistry>
 
         <version.opensagres>2.0.4</version.opensagres>
