@@ -20,7 +20,7 @@
         <version.chemistry>1.1.0</version.chemistry>
 
         <version.opensagres>2.0.4</version.opensagres>
-        <version.filestorage>2.2.0</version.filestorage>
+        <version.filestorage>2.5.0</version.filestorage>
 
         <!-- external libraries -->
         <version.assertj>3.27.3</version.assertj>
